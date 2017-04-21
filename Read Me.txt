@@ -1,0 +1,3 @@
+Mfitmonopole.m is the function needs to be run.
+The application of this function is to obtain the empirical parameters L and g for the monopole model by fitting them to an approach curve
+and a pair of the near field amplitude and phase measured on a known sample. 
